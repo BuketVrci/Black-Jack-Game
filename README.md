@@ -28,6 +28,3 @@ The codebase is structured modularly, separating the game loop from the core com
 * **`Hand.java`**: Manages an `ArrayList` of cards for both the player and the dealer, containing the mathematical logic to calculate hand values and check for "bust" or "blackjack" conditions.
 * **`Card.java`**: A data class representing an individual card, holding its rank, suit, and string representation.
 * **`Randomizer.java`**: A Singleton-patterned utility class that handles random number generation for deck shuffling.
-
----
-po-name.git](https://github.com/YourUsername/your-repo-name.git)
